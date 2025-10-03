@@ -22,6 +22,7 @@ The project provides a lightweight associative array data structure that can be 
 ```bash
 git clone https://github.com/neitoroxin/hash.git
 cd hash
+```
 
 ---
 
