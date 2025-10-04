@@ -27,4 +27,4 @@ cd hash
 ---
 
 ## How use
-In "main.c" presented example to create hash table and free up memory.
+In "example.c" presented example to create hash table and free up memory.
